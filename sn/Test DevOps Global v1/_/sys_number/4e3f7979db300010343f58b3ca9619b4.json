@@ -1,0 +1,18 @@
+{
+  "category": "u_test_devops_global_v1_table",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "TES",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 13:30:45",
+  "sys_id": "4e3f7979db300010343f58b3ca9619b4",
+  "sys_mod_count": 0,
+  "sys_name": "TES",
+  "sys_package": "d93f7179db300010343f58b3ca961978",
+  "sys_policy": null,
+  "sys_scope": "d93f7179db300010343f58b3ca961978",
+  "sys_update_name": "sys_number_4e3f7979db300010343f58b3ca9619b4",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 13:30:45"
+}
