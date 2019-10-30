@@ -1,0 +1,23 @@
+{
+  "element": "u_number",
+  "help": null,
+  "hint": null,
+  "label": "Number",
+  "language": "en",
+  "name": "u_test_devops_global_v1_table",
+  "plural": "Numbers",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-30 13:30:45",
+  "sys_id": "463f7979db300010343f58b3ca9619d2",
+  "sys_mod_count": 0,
+  "sys_name": "Number",
+  "sys_package": "d93f7179db300010343f58b3ca961978",
+  "sys_policy": null,
+  "sys_scope": "d93f7179db300010343f58b3ca961978",
+  "sys_update_name": "sys_documentation_u_test_devops_global_v1_table_u_number_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-30 13:30:45",
+  "url": null,
+  "url_target": null
+}
